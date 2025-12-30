@@ -1,0 +1,23 @@
+{
+  "name": "solarized-crisp",
+  "displayName": "Solarized Crisp",
+  "description": "Solarized theme with higher contrast and minimalistic syntax highlighting.",
+  "version": "0.0.1",
+  "publisher": "ivan7en",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solarized Crisp",
+        "uiTheme": "vs",
+        "path": "./themes/Solarized Crisp-color-theme.json"
+      }
+    ]
+  }
+}
